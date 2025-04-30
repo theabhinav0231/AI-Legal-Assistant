@@ -5,6 +5,9 @@
 
 ---
 
+## Project Video Demonstration- https://drive.google.com/file/d/1-TrXdol_YfpUMSLfYBeEUY7jIrkOPfkf/view?usp=drive_link
+
+
 ## 📘 Project Overview
 
 Legal research in India is a **time-intensive** and **complex** task, often requiring the study of lengthy documents and numerous past case judgments. With over **5.1 crore pending cases**, the need for efficient tools is critical.
